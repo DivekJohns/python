@@ -1,2 +1,3 @@
 # python
-Simple REST API with python and flask
+python programs and a simple flask server api
+
